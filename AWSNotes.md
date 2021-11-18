@@ -109,7 +109,7 @@ IAM Policy Statements: SID: Identifier for the statement (optional), Effect: All
 
 ### Things to study with IAM
 
-- IAM Security Tools
+- IAM Security  Tools
 
 - IAM Users/Groups
 
